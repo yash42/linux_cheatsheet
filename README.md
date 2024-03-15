@@ -3,3 +3,4 @@
 
 ## commands
 - Empty the file:<b> $ > file_name </b> eg: $ > error.log
+- Show all the content all the files within directory: <b> $ tail -f * </b>
